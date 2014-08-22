@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="transparent_black">#a0000000</color>
+    <color name="transparent_white">#00ffffff</color>
+    <color name="tutorial_view_highlighter_color">#FFEE79</color>
+    <color name="tutorial_view_content_color">#FFEC93</color>
+    <color name="tutorial_view_content_background">#a0000000</color>
+
+</resources>

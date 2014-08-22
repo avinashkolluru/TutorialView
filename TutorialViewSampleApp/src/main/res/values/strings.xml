@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">TutorialView</string>
+    <string name="action_settings">Settings</string>
+    <string name="start_tutorial">Start Tutorial</string>
+    <string name="start_tutorial_desc">Click here to start the sample tutorial</string>
+    <string name="start_single_shot_tutorial">Start Single Shot Tutorial</string>
+    <string name="start_single_shot_tutorial_desc">Click here to start a tutorial that will be shown only on first time launch</string>
+    <string name="title_sample_tutorial_activity">Sample Tutorial</string>
+    <string name="title_activity_single_shot_tutorial">SingleShotTutorialActivity</string>
+
+    <string name="button">Button</string>
+    <string name="tut_page1_desc">This is a tutorial with a custom layout describing a highlighted view</string>
+    <string name="tut_page2_desc">This is a tutorial with a simple text describing highlighted views\nTap anywhere to exit tutorial</string>
+    <string name="tut_builder_slide_hor">Slide horizontally to continue with the tutorial</string>
+    <string name="single_shot_tut_desc">This is a tutorial that will be shown only on first time launch.\nGo back to the app home screen and relaunch. Notice that you wont see the tutorial help</string>
+
+</resources>
