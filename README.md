@@ -6,10 +6,11 @@ Highlight the new features or best parts of your Android App and guide new users
 <img src='./TutorialView-Screenshot1.png' width='270' height='480' />&nbsp;
 <img src='./TutorialView-Screenshot2.png' width='270' height='480' />
 
-Contains 2 modules
+Contains 3 modules
 
 1. TutorialViewLibrary (com.ak.android.tutorialview) which is an Android Library
 2. TutorialViewSampleApp - A sample app showing how to use the above library
+3. viewpagerindicator(http://viewpagerindicator.com/) - Used by the library for viewing tutorial with multiple items/pages
 
 <h3> TutorialBuilder </h3>
 
