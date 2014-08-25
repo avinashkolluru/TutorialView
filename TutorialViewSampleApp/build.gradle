@@ -1,5 +1,12 @@
 apply plugin: 'android'
 
+repositories {
+    mavenCentral()
+    maven {
+        url 'https://oss.sonatype.org/content/repositories/snapshots'
+    }
+}
+
 android {
     compileSdkVersion 19
     buildToolsVersion '19.1.0'
@@ -20,5 +27,6 @@ android {
 
 dependencies {
     compile fileTree(dir: 'libs', include: ['*.jar'])
-    compile project(':TutorialViewLibrary')
+    compile 'com.github.avinashkolluru.tutorialview:library:1.0-SNAPSHOT'
+    compile project(':viewpagerindicator')
 }
